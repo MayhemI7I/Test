@@ -1,3 +1,3 @@
 package main
 
-func main()Porigin ma
+func main()Porigin mafssdffadfgitgit
