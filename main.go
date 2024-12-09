@@ -1,3 +1,3 @@
 package main
 
-func main()P
+func main()Porigin ma
